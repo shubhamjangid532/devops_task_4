@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Config
 clusters:
 - cluster:
-    server: https://192.168.157.129:8443
+    server: https://192.168.157.130:8443
     certificate-authority: /root/ca.crt
   name: hwcluster
 
